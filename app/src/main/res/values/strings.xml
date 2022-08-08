@@ -1,14 +1,15 @@
 <resources>
-    <string name="app_name">Howlstagram</string>
-    <string name="facebook_app_id">873009302900995</string>
-    <string name="fb_login_protocol_scheme">fb873009302900995</string>
+    <string name="app_name">HSJSInstagram</string>
+    <string name="facebook_app_id">930158621126328</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">9b650df0e00ad459f4aeefd649e37224</string>
     <string name="com.twitter.sdk.android.CONSUMER_KEY">0lY6xdMc8l3Bgkdep8DvfPxe4</string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET">2Uov8wp8sQWccy1oRRes7Q3VgWfsTE1tokYHblse9TTaF0BW1b</string>
 
     <!-- Sign In -->
     <string name="email">Email</string>
     <string name="password">Password</string>
-    <string name="signin_email">회원가입 및 이메일 로그인</string>
+    <string name="signin_email">회원가입 및 로그인</string>
     <string name="signin_google">Google으로 로그인</string>
     <string name="signin_facebook">Facebook으로 로그인</string>
     <string name="signin_twitter">Twitter으로 로그인</string>
