@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975256618549",
+    "project_id": "hsjsinstagram",
+    "storage_bucket": "hsjsinstagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975256618549:android:bdcaa8d603be69517d937c",
+        "android_client_info": {
+          "package_name": "com.example.hsjsinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975256618549-ttlbmqk8jp4rgq2um98ifq2pp4kr701i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_l7izGTH1d1fhxyAC2YDVFt0tqqBmSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975256618549-ttlbmqk8jp4rgq2um98ifq2pp4kr701i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
