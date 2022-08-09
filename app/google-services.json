@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "975256618549",
-    "project_id": "hsjsinstagram",
-    "storage_bucket": "hsjsinstagram.appspot.com"
+    "project_number": "561052936231",
+    "project_id": "hsjsinstagram0",
+    "storage_bucket": "hsjsinstagram0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:975256618549:android:bdcaa8d603be69517d937c",
+        "mobilesdk_app_id": "1:561052936231:android:3c6c7a0f4d58c05857c602",
         "android_client_info": {
           "package_name": "com.example.hsjsinstagram"
         }
       },
       "oauth_client": [
         {
-          "client_id": "975256618549-ttlbmqk8jp4rgq2um98ifq2pp4kr701i.apps.googleusercontent.com",
+          "client_id": "561052936231-t19djj0uaif9332ejvdc9v1ee0ga8kl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hsjsinstagram",
+            "certificate_hash": "b43d2296809cfbd91f8f9653a8d83b41b0bee7b0"
+          }
+        },
+        {
+          "client_id": "561052936231-kf0lltjchdqrvlfcu75c03aptm8sduho.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAf_l7izGTH1d1fhxyAC2YDVFt0tqqBmSU"
+          "current_key": "AIzaSyC4aoD9Qq2pcXV0nMvKDcIS-aokhWa7WzY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "975256618549-ttlbmqk8jp4rgq2um98ifq2pp4kr701i.apps.googleusercontent.com",
+              "client_id": "561052936231-kf0lltjchdqrvlfcu75c03aptm8sduho.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -17,6 +17,10 @@ class MainActivity : AppCompatActivity(){
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        //Set default screen
+        bottom_navigation.selectedItemId = R.id.action_home
+
         bottom_navigation.setOnItemSelectedListener {
             it ->
             when(it.itemId){
